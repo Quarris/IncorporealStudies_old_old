@@ -1,0 +1,1 @@
+Mimic the ability to summon reinforcements when taken damage.

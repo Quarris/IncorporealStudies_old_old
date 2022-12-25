@@ -1,0 +1,17 @@
+Research an existing discovery to learn more about it and potentially unlocking abilities in the process.
+
+Research consists of several steps:
+    1) Once the research entry is unlocked in the Diary the tasks are automatically detected.
+    2) Complete a list of tasks
+        2.1) Tasks are provided in the Diary once the research has started.
+        2.2) Tasks can be anything from looking at something to clicking on mob to having an item.
+        2.3) Completing the tasklist allows the player to create research notes
+    3) Finalise Research
+        3.1) Create research notes for a specific discovery.
+            3.1.1) Can only be created if notes are not in inv.
+            3.1.2) Notes are bound to a player (maybe you should work on your handwriting so others can read your work)
+        3.2) Use notes in a research table and clues from the Diary entry to unlock the research.
+        3.3) Unlock the research (by R-Clicking and only by the bound player)
+
+Research can be copied by sharing Translation Notes crafted by a player, and RClicking by the learner. Afterwards the
+player wanting to learn can RClick the other players Diary to learn its contents.

@@ -1,0 +1,12 @@
+Pre-Reqs:
+
+
+
+Entry:
+
+
+
+
+desc:
+an item that grabs souls from the world, similar concept to The Deluminator from Harry Potter.
+name: desoulinator

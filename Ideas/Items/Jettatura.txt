@@ -1,0 +1,2 @@
+And item which can be used to see the souls in the world and in entities.
+Similar use to Thaumometer and Aura Nodes.

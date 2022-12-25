@@ -1,0 +1,7 @@
+Find discoveries in the world by observing the natural world.
+Observations are written into the Diary.
+They provide knowledge about the many phenomenon of the world.
+
+Observations happen without the need of the player to do anything and are automatically written to the Diary.
+If a player does something where an observation activates then it will.
+Observations only can happen if the player has the Diary and Research Utensils in inventory.
