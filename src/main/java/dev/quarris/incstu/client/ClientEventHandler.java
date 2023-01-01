@@ -14,6 +14,6 @@ public class ClientEventHandler {
 
     @SubscribeEvent
     public static void registerParticles(ParticleFactoryRegisterEvent event) {
-        Minecraft.getInstance().particleEngine.register(ModParticles.SOUL.get(), new SoulParticle.Provider());
+        Minecraft.getInstance().particleEngine.register(ModParticles.SOUL.get(), SoulParticle.Provider::new);
     }
 }

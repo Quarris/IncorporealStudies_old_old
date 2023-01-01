@@ -8,10 +8,10 @@ import net.minecraftforge.registries.RegistryObject;
 public class ModParticles {
 
     public static final RegistryObject<ParticleType<SoulParticleOptions>> SOUL = ModRegistry.PARTICLES.register("soul",
-        () -> new ParticleType<>(true, null) {
+        () -> new ParticleType<>(true, SoulParticleOptions.DESERIALIZER) {
             @Override
             public Codec<SoulParticleOptions> codec() {
-                return null;
+                return SoulParticleOptions.CODEC;
             }
         });
 

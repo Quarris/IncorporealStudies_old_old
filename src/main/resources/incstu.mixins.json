@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "dev.quarris.incstu.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "refmap": "incstu.refmap.json",
+  "mixins": [
+    "EntityMixin"
+  ],
+  "client": [
+  ],
+  "minVersion": "0.8"
+}
