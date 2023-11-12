@@ -1,2 +1,4 @@
 Soul Swarms are non-lethal mobs. They are invisible by default unless with the use of Jettatura or Soul-Seeing Eye.
 The give slowness to players who walk into them. Can be collected with a Desoulinator.
+
+When trying to place blocks in its way, the player will get a message
